@@ -1,11 +1,11 @@
 <div id="header" align="center">
-    <img src="https://github.com/kirualex/kirualex/back.png" width="250"/>
+    <img src="https://github.com/kirualex/kirualex/blob/main/back.png?raw=true" width="250"/>
     <div id="badges">
         <a href="https://www.linkedin.com/in/alexis-creuzot/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
-        <a href="https://bit.ly/3Op5t05" target="_blank">
-            <img src="https://stackoverflow.com/users/421786/alexis-c" alt="Stack Overflow Badge"/>
+        <a href="https://stackoverflow.com/users/421786/alexis-c" target="_blank">
+            <img src="[https://stackoverflow.com/users/421786/alexis-c](https://img.shields.io/badge/Stack%20Overflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)" alt="Stack Overflow Badge"/>
         </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=kirualex&style=flat-square&color=blueviolet" alt=""/>

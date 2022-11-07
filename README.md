@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://github.com/kirualex/kirualex/blob/main/back.png?raw=true" width="250"/>
+    <img src="https://github.com/kirualex/kirualex/blob/main/back.png?raw=true" height="80"/>
     <div id="badges">
         <a href="https://www.linkedin.com/in/alexis-creuzot/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,18 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=kirualex&style=flat-square&color=blueviolet" alt=""/>
 </div>
 
-### :man_technologist: About Me :
-
- - :man_technologist: Senior iOS Developer.
-
- - :iphone: Developing for iOS since 2011.
-
- - :bulb: Love working on challenging projects both alone and within great teams.
-
-
----
-
-### :fire: My Stats :
+### :fire: My Stats
 
 <div id="stats" align="center">
 
@@ -34,7 +23,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" width="40" height="40"/>
 &nbsp;

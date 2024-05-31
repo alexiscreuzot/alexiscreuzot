@@ -14,8 +14,7 @@
 
 <div id="stats" align="center">
 
-<br/><br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kirualex&theme=modern-lilac2&hide_border=true)](https://git.io/streak-stats)
+<br/>
 </div>
 
 <div id="tools" align="center" style="img{display:inline; border-radius:20px; backgroundcolor:#FFF}">
